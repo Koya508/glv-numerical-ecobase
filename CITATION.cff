@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this code, please cite this repository."
 type: software
-title: "Code and Data for 'Linear response in the generalized Lotka–Volterra systems with a finite number of species'"
+title: "Code and Data for 'Linear response in generalized Lotka–Volterra systems with a finite number of species'"
 authors:
   - family-names: "Katayama"
     given-names: "Koya"
