@@ -1,9 +1,17 @@
-# Rename to CITATION.cff and complete the metadata before the first GitHub release.
 cff-version: 1.2.0
-message: "If you use this code and data, please cite this archive."
-title: "Code and data for [PAPER TITLE]"
+
+message: "If you use this code, please cite this repository."
+
 type: software
+
+title: "Code and Data for Numerical Range and Ecosystem Analyses"
+
 authors:
-  - family-names: "[FAMILY NAME]"
-    given-names: "[GIVEN NAME]"
-repository-code: "https://github.com/[USER]/[REPOSITORY]"
+  - family-names: "Katayama"
+    given-names: "Koya"
+  - family-names: "Ito"
+    given-names: "Sosuke"
+
+version: "1.0.0"
+
+repository-code: "https://github.com/USERNAME/glv-numerical-ecobase"
