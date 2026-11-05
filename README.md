@@ -39,5 +39,11 @@ This repository holds the Google Colab notebooks and the exact input datasets us
 - The EcoBase notebooks expect the exact same data snapshot and row order in `df.csv` and `Ecopath_list.pkl`.
 - The geographic map cell also loads a Natural Earth ZIP from `https://naciscdn.org/naturalearth/110m/cultural/ne_110m_admin_0_countries.zip`, so this part currently needs internet access.
 
-## Citation and license
+## Citation
 
+The code and data supporting this study are
+archived on Zenodo.
+
+DOI: https://doi.org/10.5281/zenodo.23974461
+
+Version: v1.0.0
