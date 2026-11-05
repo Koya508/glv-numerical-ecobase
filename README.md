@@ -1,4 +1,4 @@
-# Code and data supporting "Linear response in the generalized Lotka–Volterra systems with a finite number of species"
+# Code and data supporting "Linear response in generalized Lotka–Volterra systems with a finite number of species"
 
 This repository holds the Google Colab notebooks and the exact input datasets used in our numerical experiments and EcoBase ecosystem analysis.
 
